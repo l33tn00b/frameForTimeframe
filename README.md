@@ -33,3 +33,6 @@ Put it into the frame. Please note: I didn't place the screws, yet (optional, if
 Put the back cover on.
 
 ![back part in frame](back_on.jpg  "back part in frame")
+
+## Step 5:
+Close the frame (not documented).
